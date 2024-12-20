@@ -1,0 +1,61 @@
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe.config
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.pdb
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form1.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form2.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form3.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Properties.Resources.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.exe
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.pdb
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe.config
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.pdb
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form1.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form2.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form3.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Properties.Resources.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.GenerateResource.cache
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.exe
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.pdb
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.ResolveComReference.cache
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form4.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form5.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.ResolveComReference.cache
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form4.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form5.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form6.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form7.resources
+D:\Microsoft Visual Studio\Proyectos\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form8.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form6.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form7.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form8.resources
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.AssemblyReference.cache
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.CoreCompileInputs.cache
+E:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.SuggestedBindingRedirects.cache
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe.config
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.pdb
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.AssemblyReference.cache
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.SuggestedBindingRedirects.cache
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.ResolveComReference.cache
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form1.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form2.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form3.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form4.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form5.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form6.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form7.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Form8.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria_Proyecto.Properties.Resources.resources
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.GenerateResource.cache
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.CoreCompileInputs.cache
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.exe
+X:\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.pdb
+G:\2 semestre ULS\Contaduria\Contaduria Proyecto\Contaduria Proyecto\bin\Debug\Contaduria Proyecto.exe.config
+G:\2 semestre ULS\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.csproj.ResolveComReference.cache
+G:\2 semestre ULS\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.exe
+G:\2 semestre ULS\Contaduria\Contaduria Proyecto\Contaduria Proyecto\obj\Debug\Contaduria Proyecto.pdb
