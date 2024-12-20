@@ -1,0 +1,28 @@
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form3.resources
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form4.resources
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form5.resources
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\AR\Blabalknbwañdojlqdpoi\Forms windowes\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form2.resources
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form3.resources
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form4.resources
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form5.resources
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Microsoft Visual Studio\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
