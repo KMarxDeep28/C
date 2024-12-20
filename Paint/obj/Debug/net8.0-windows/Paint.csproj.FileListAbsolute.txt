@@ -1,0 +1,34 @@
+D:\Microsoft Visual Studio\Proyectos\Paint\bin\Debug\net8.0-windows\Paint.exe
+D:\Microsoft Visual Studio\Proyectos\Paint\bin\Debug\net8.0-windows\Paint.deps.json
+D:\Microsoft Visual Studio\Proyectos\Paint\bin\Debug\net8.0-windows\Paint.runtimeconfig.json
+D:\Microsoft Visual Studio\Proyectos\Paint\bin\Debug\net8.0-windows\Paint.dll
+D:\Microsoft Visual Studio\Proyectos\Paint\bin\Debug\net8.0-windows\Paint.pdb
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.Form1.resources
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.dll
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\refint\Paint.dll
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.pdb
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\ref\Paint.dll
+D:\Microsoft Visual Studio\Proyectos\Paint\obj\Debug\net8.0-windows\Paint.Properties.Resources.resources
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\bin\Debug\net8.0-windows\Paint.exe
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\bin\Debug\net8.0-windows\Paint.deps.json
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\bin\Debug\net8.0-windows\Paint.runtimeconfig.json
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\bin\Debug\net8.0-windows\Paint.dll
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\bin\Debug\net8.0-windows\Paint.pdb
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.Form1.resources
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.Properties.Resources.resources
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.csproj.GenerateResource.cache
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfoInputs.cache
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfo.cs
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.csproj.CoreCompileInputs.cache
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.dll
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\refint\Paint.dll
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.pdb
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\Paint.genruntimeconfig.cache
+D:\6 semestre ULS\Lenguaje Audiovisual\Paint\obj\Debug\net8.0-windows\ref\Paint.dll
